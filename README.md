@@ -4,7 +4,7 @@ Revflow: SaaS Revenue Analytics Platform offers key ARR metrics, visual insights
 ## Overview
 Revflow is a comprehensive analytics platform designed to track, analyze, and visualize Annual Recurring Revenue (ARR) metrics for subscription-based businesses. The platform provides real-time insights into revenue performance, customer segmentation, and growth trends to support data-driven decision-making.
 
-<img src="IMG-1.png" width="500" alt="Dashboard SS">
+<img src="IMG-1.png" alt="Dashboard SS">
 
 ## Key Features
 
